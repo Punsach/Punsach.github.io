@@ -25,6 +25,7 @@ My name is Puneet Sachdeva. I am currently a Computer Science major at Washingto
 * CSS
 * JavaScript 
 * jQuery 
+* React.js
 
 ## Back End Web Development 
 
