@@ -17,7 +17,7 @@ baseurl: ""
 title: Puneet Sachdeva
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Just want to show off the productive parts of my life. 
 
 # --- Navigation bar options --- #
 
@@ -84,7 +84,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+ url-pretty: "psachdeva.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
