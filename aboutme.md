@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who am I? 
-subtitle: I am a Dancer, Teacher, Technician, and an aspiring Software Developer
+subtitle: I am an aspiring Software Developer, Teacher, Technician, and Dancer
 ---
 
 My name is Puneet Sachdeva. I am currently a Computer Science major at Washington University in St. Louis. Through middle and high school I participated in math competitions and discovered a love for problem solving. Eventually, I took my first Computer Science course in my sophomore year of high school. Ever since I realized how much I could do with my skills in problem solving and programming, I have been hooked. 
