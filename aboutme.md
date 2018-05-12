@@ -20,28 +20,29 @@ In my free time, I work as a Student Technician at Student Technology Services a
 
 * Java
 * Python
-* Android Studio 
 * Swift 
-* Arduino 
-* Linux/UNIX
-* LaTeX 
-* PHP Laravel 
+* PHP
+* JavaScript 
 
-## Front End Web Development 
+## Web Development Tools and Frameworks 
 
 * HTML 
-* CSS
-* JavaScript 
+* CSS + Bootstrap
 * jQuery 
 * React.js
-
-## Back End Web Development 
-
-* JavaScript 
 * Node.js 
 * Express.js 
-* PHP
-* MySQL
+* Socket.IO 
+* PHP Laravel 
 
+## Databases 
 
+* MongoDB, MySQL, SQLite, PostgreSQL 
+
+## Data Science 
+
+* Hadoop MapReduce 
+* Apache Spark 
+* Apache Hive 
+* Apache Pig 
 
