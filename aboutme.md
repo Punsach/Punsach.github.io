@@ -37,7 +37,10 @@ In my free time, I work as a Student Technician at Student Technology Services a
 
 ## Databases 
 
-* MongoDB, MySQL, SQLite, PostgreSQL 
+* MongoDB
+* MySQL
+* SQLite
+* PostgreSQL 
 
 ## Data Science 
 
