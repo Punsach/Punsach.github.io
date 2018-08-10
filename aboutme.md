@@ -10,9 +10,7 @@ In my free time, I work as a Student Technician at Student Technology Services a
 
 **Currently, I am working as the Head Teaching Assistant of the Data Structures and Algorithms class at my university and am working on improving the material for the course. Additionally, I am working as an instructor for a seminar that prepares students for coding interviews, and working on designing material for the course.**
 
-**Additionally, I work as a student developer for DevSTAC, a group of students that work on building applications for organizations on campus. I am in the process of creating a React.js training program to prepare student developers to use the technology for our projects.**
-
-**This summer, I will be working as a Software Engineering Intern at TripAdvisor in Needham, MA. I will work in Full Stack Web Development, and am very excited!** 
+**Over this past summer I have been a Software Engineering Intern at TripAdvisor on the Core Experience team. My work has been primarly in developing the UI through React, integrating optimized GraphQL scripts, and setting up data monitoring using Prometheus. I will continue to work part time for TripAdvisor throughout the fall. **
 
 # Skills 
 
@@ -34,6 +32,7 @@ In my free time, I work as a Student Technician at Student Technology Services a
 * Express.js 
 * Socket.IO 
 * PHP Laravel 
+* GraphQL 
 
 ## Databases 
 
@@ -48,4 +47,5 @@ In my free time, I work as a Student Technician at Student Technology Services a
 * Apache Spark 
 * Apache Hive 
 * Apache Pig 
+* Prometheus
 
