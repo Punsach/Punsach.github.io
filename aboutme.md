@@ -8,7 +8,7 @@ My name is Puneet Sachdeva. I am currently a junior at Washington University in 
 
 In my free time, I work as a Student Technician at Student Technology Services and provide technical support to students and faculty at Washington University. I am very involved in teaching at my university and have served as a Teaching Assistant in a variety of courses including Introduction to Computer Science, Data Structures and Algorithms, and Programming for Technical Interviews. Outside of the technical aspects of my life, I am a Captain of the Bhangra team and a volunteer at the local Stray Rescue Animal Shelter. 
 
-**Recently, I served as Head Teaching Assistant of Data Stuctures and Algorithms. Additionally, I am the instructor for Programming for Technical Interviews, a course that prepares students for coding interviews. This semester I will be one of the Head Teaching Assistants for a brand new Android App Development course I helped design. I will also be a TA for Database Management Systems. **
+**Recently, I served as Head Teaching Assistant of Data Stuctures and Algorithms. Additionally, I am the instructor for Programming for Technical Interviews, a course that prepares students for coding interviews. This semester I will be one of the Head Teaching Assistants for a brand new Android App Development course I helped design. I will also be a TA for Database Management Systems.**
 
 **Over this past summer I was a Software Engineering Intern at TripAdvisor on the Core Experience team. My work was primarly in developing the UI through React, integrating optimized GraphQL scripts, and setting up data monitoring using Prometheus. This coming summer I will intern at LinkedIn as a Software Engineering Intern on the Growth and Notifications team.**
 
