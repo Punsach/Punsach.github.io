@@ -4,13 +4,13 @@ title: Who am I?
 subtitle: I am an aspiring Software Developer, Teacher, Technician, and Dancer
 ---
 
-My name is Puneet Sachdeva. I am currently a Computer Science major at Washington University in St. Louis. Through middle and high school I participated in math competitions and discovered a love for problem solving. Eventually, I took my first Computer Science course in my sophomore year of high school. Ever since I realized how much I could do with my skills in problem solving and programming, I have been hooked. 
+My name is Puneet Sachdeva. I am currently a junior at Washington University in St. Louis. Throughout middle and high school I participated in math competitions and discovered a love for problem solving. Eventually, I took my first Computer Science course in my sophomore year of high school. When I realized how much I could do with my skills in problem solving and programming, I became hooked. 
 
-In my free time, I work as a Student Technician at Student Technology Services and provide technical support to students and faculty at Washington University. I was recently promoted to the Heading Teaching Assistant of Data Structures and Algorithms at my University, and am extremely involved in the curriculum for that course. Outside of the technical aspects of my life, I am a Captain of the Bhangra team and a volunteer at the local Stray Rescue Animal Shelter. 
+In my free time, I work as a Student Technician at Student Technology Services and provide technical support to students and faculty at Washington University. I am very involved in teaching at my university and have served as a Teaching Assistant in a variety of courses including Introduction to Computer Science, Data Structures and Algorithms, and Programming for Technical Interviews. Outside of the technical aspects of my life, I am a Captain of the Bhangra team and a volunteer at the local Stray Rescue Animal Shelter. 
 
-**Currently, I am working as the Head Teaching Assistant of Data Structures and Algorithms and am improving the material for the course. Additionally, I am working as an instructor for a seminar that prepares students for coding interviews, and working on designing material for the course.**
+**Recently, I served as Head Teaching Assistant of Data Stuctures and Algorithms. Additionally, I am the instructor for Programming for Technical Interviews, a course that prepares students for coding interviews. This semester I will be one of the Head Teaching Assistants for a brand new Android App Development course I helped design. I will also be a TA for Database Management Systems. **
 
-**Over this past summer I have been a Software Engineering Intern at TripAdvisor on the Core Experience team. My work has been primarly in developing the UI through React, integrating optimized GraphQL scripts, and setting up data monitoring using Prometheus. I will continue to work part time for TripAdvisor throughout the fall.**
+**Over this past summer I was a Software Engineering Intern at TripAdvisor on the Core Experience team. My work was primarly in developing the UI through React, integrating optimized GraphQL scripts, and setting up data monitoring using Prometheus. This coming summer I will intern at LinkedIn as a Software Engineering Intern on the Growth and Notifications team.**
 
 # Skills 
 
@@ -22,6 +22,7 @@ In my free time, I work as a Student Technician at Student Technology Services a
 * PHP
 * JavaScript 
 * C++
+* Kotlin
 
 ## Web Development Tools and Frameworks 
 
