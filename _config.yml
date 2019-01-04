@@ -24,7 +24,7 @@ description: Just want to show off the productive parts of my life.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "resume/PuneetSachdevaResume.pdf"
+  Resume: "resume/puneet.pdf"
   Projects: "projects/index.html"
   Blog: "blog" 
 
